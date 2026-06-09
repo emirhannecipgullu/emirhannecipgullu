@@ -35,8 +35,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Her+Satır+Kodu+Takip+Ediyorum;⚡+Gelişim+ve+İstikrar;📊+Diller,+Projeler+ve+Daha+Fazlası!)](https://git.io/typing-svg)
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=emirhannecipgullu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhannecipgullu&theme=tokyonight" alt="GitHub Streak" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emirhannecipgullu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=emirhannecipgullu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 
 </div>
 
